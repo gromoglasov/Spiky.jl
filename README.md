@@ -1,10 +1,15 @@
-# Spiky.jl  
-
-**Work in progress**
+# Spiky.jl 
 
 A framework written in Julia, providing set of tools, which can be used for developemnt Spiking Neural Networks (SNNs).
 
+**Work in progress**
+
+## What are Spiking Neural Networks?
+
 A great place to get started would be the [Deep Learning in Spiking Neural Networks.](https://arxiv.org/pdf/1804.08150.pdf)[1]. The paper provides a great overview of where the field is today, different learning approaches, as well as results obtained by various architectures on MNIST classification. Go read the paper.
+
+
+## Learning Rules
 
 
 ### Bibliography
